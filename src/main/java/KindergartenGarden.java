@@ -4,7 +4,7 @@ class KindergartenGarden {
 
     KindergartenGarden(String garden) {
         System.out.print(garden);
-        System.out.printf("\n%s", garden.toUpperCase());
+        System.out.printf("\n%s", garden.length());
 
     }
 
@@ -13,6 +13,6 @@ class KindergartenGarden {
     }
 
     public static void main(String[] args) {
-        new KindergartenGarden("testing\nlines");
+        new KindergartenGarden("VGYT\nGRIU");
     }
 }
