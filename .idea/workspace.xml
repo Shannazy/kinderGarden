@@ -4,6 +4,7 @@
     <list default="true" id="7563bfd3-f998-4a00-b90d-e287568b257f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/KindergartenGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/KindergartenGarden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KindergartenGardenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KindergartenGardenTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.KindergartenGardenTest">
     <configuration name="KindergartenGarden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KindergartenGarden" />
       <module name="KinderGarden" />
@@ -55,8 +56,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KindergartenGardenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KinderGarden" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KindergartenGardenTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KindergartenGardenTest" />
         <item itemvalue="Application.KindergartenGarden" />
       </list>
     </recent_temporary>
@@ -71,5 +82,16 @@
       <updated>1632874227438</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
